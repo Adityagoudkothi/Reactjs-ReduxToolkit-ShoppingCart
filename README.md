@@ -18,7 +18,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 **Project Features**
 
-Beautiful and Responsive UI using TailwindCSS
+Beautiful and Responsive UI using Bootstrap
 User can add products to cart.
 User can remove products from cart.
 User can check cart summary in cart page.
