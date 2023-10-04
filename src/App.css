@@ -9,6 +9,29 @@ body {
 .w50 {
   width: 50%;
 }
+.font-weight-600 {
+  font-weight: 600;
+}
+.btnborder1 {
+  border: 2px solid #7e22ce;
+  color: #7e22ce;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btnborder1:hover {
+  background-color: #7e22ce;
+  color: #fff;
+}
+
+.bgclr {
+  color: #7e22ce;
+}
+.bg1 {
+  background: linear-gradient(to right, #4c1d95 0%, #d8b4fe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 22px;
+}
 
 .App-logo {
   height: 40vmin;
